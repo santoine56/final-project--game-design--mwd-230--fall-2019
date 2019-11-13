@@ -30,7 +30,7 @@ Your game requires a manual that instructs users on how to play your game. This 
 
 **Note**: The concepts in this section are discussed in more detail in **Level 4: You Can Design a Game, but Can You Do the Paperwork?**
 
-Write all your one-sheet-related content in `THE-ONE-SHEET.MD`, which is included in this repository. Ensure its Flesch-Kincaid Grade Level is at least 9.
+Write all your one-sheet-related content in `THE-ONE-SHEET.md`, which is included in this repository. Ensure its Flesch-Kincaid Grade Level is at least 9.
 
 ---
 

@@ -13,7 +13,7 @@ This game is stylized like a pong game. The player moves their paddle to bounce 
 * Description of the three levels of game play
 
 	Level 1: Maryjane vs. Prince Venomax
-	
+		
 Younger sister Maryjane faces off against the slow-paced younger twin Venomax to obtain a total of 3 points. Whichever player 
 reaches 3 points first wins the level. But if the main player doesn’t reach 3 points in time, the game over screen will appear 
 and the player will be redirected to the level selection screen. 
